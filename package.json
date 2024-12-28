@@ -1,7 +1,7 @@
 {
-  "name": "dmego-home-page",
+  "name": "JG-home-page",
   "version": "1.0.5",
-  "description": "Dmego Home Page",
+  "description": "JG Home Page",
   "scripts": {
   },
   "repository": {
@@ -9,10 +9,10 @@
     "url": "git+https://github.com/dmego/home.github.io.git"
   },
   "keywords": [
-    "Dmego",
+    "杰哥",
     "HomePage"
   ],
-  "author": "Dmego",
+  "author": "杰哥",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmego/home.github.io/issues"
